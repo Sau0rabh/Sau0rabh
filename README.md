@@ -2,7 +2,7 @@
 A passionate student toward technology who belive in building highly performant & scalable software. 
 
 ![](https://komarev.com/ghpvc/?username=sau0rabh) 
- [![Linkedin Badge](https://img.shields.io/badge/-dinesh%20talwadker-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-kumar-737232145/ "Connect on LinkedIn") <a href="https://x.com/Sau0rabh"> <img src="https://img.shields.io/twitter/follow/dineshcodes?style=social"> </a>
+
 
 ```javascript
 - My Skills / Stack
