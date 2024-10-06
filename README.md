@@ -20,7 +20,7 @@ Backend: Nodejs, Express.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/saurabh-kumar-737232145/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prashu-verma-517890227/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saurabh-kumar-737232145/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prashu-verma-517890227/" height="30" width="40" /> </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -39,15 +39,20 @@ Backend: Nodejs, Express.
 <h4>Other:</h4>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
+<hr>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sau0rabh&show_icons=true&locale=en&layout=compact" alt="sau0rabh" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sau0rabh&show_icons=true&locale=en" alt="sau0rabh" /></p>
+
+
+<hr>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sau0rabh&" alt="sau0rabh" /></p>
 
 
+<hr>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sau0rabh&label=Profile%20views&color=0e75b6&style=flat" alt="sau0rabh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sau0rabh" alt="sau0rabh" /></a> </p>
 <!---
