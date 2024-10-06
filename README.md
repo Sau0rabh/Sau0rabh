@@ -1,4 +1,4 @@
-## hey, i am Saurabh Kumar 🙋🏽‍♂️
+ ## hey, i am Saurabh Kumar 🙋🏽‍♂️
 A passionate student toward technology who belive in building highly performant & scalable software. 
 
 ![](https://komarev.com/ghpvc/?username=sau0rabh) 
@@ -13,6 +13,10 @@ Backend: Nodejs, Express.
 - Tools / Technologies: Docker, Figma, Storybook, Mongodb Atlas, Upstash, Tunnel
 - Hosting - Supabase, DigitalOcean, Vercel, Azure, AWS, Firebase, Planetscale,
 ```
+## Projects 🎯
+- 💪 [Fitistan](https://sau0rabh.github.io/Codsoft-project-fitistan/) Built a wbsite to Upload health related content.
+- 🎨 [Personal Website](https://sau0rabh.github.io/Saurabh-Personal-website/) Portfolio website to show my skills and creativity.
+- 🧮 [Calculator](https://sau0rabh.github.io/Codsoft-project-calculator/) Build a project that does make Addition, Substraction, Division and Multiplication.
 
 <!---
 Sau0rabh/Sau0rabh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
